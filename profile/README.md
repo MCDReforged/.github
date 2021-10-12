@@ -2,7 +2,7 @@
 
 [![MCDR-banner](https://raw.githubusercontent.com/Fallen-Breath/MCDReforged/master/logo_long.png)](https://github.com/Fallen-Breath/MCDReforged "Fallen-Breath/MCDReforged")
 
-**English** | [中文](./README_cn.md "Chinese")
+**English** | [中文](https://github.com/MCDReforged/.github/blob/main/profile/README_cn.md "Chinese")
 
 ## What is MCDReforged
 
