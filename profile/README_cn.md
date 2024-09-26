@@ -1,4 +1,4 @@
-[English](https://github.com/MCDReforged/#mcdreforged) | **中文**
+[English](https://github.com/MCDReforged/) | **中文**
 
 <div align="center">
   <br/><br/><br/>
