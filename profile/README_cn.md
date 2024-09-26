@@ -1,23 +1,23 @@
-# MCDReforged
+[English](https://github.com/MCDReforged/#mcdreforged) | **中文**
 
-<!-- 狐狸姐姐可可爱爱嘶哈嘶哈prpr诶嘿嘿🥵🥵🥵 -->
+<div align="center">
+  <br/><br/><br/>
+    <img width="60" height="60" src="https://avatars.githubusercontent.com/u/63280128?s=460&v=4" />
+  <h2>MCDReforged</h2>
+  用 Python 轻松控制你的 Minecraft 服务器
+  <br/>
+  <h3><strong><a target="_blank" href="https://mcdreforged.com/zh-CN">了解更多</a></strong></h3>
+  <br/><br/>
+  <p>
+    <h4>✦ 存储库列表 ✦</h4>
+    <a target="_blank" href="https://github.com/MCDReforged/MCDReforged"><strong>MCDReforged</strong></a> • 
+    <a target="_blank" href="https://github.com/MCDReforged/docker"><strong>Docker 镜像</strong></a> • 
+    <a target="_blank" href="https://github.com/MCDReforged/website"><strong>网站源码</strong></a>
+    <br/>
+    <a target="_blank" href="https://github.com/MCDReforged/PluginCatalogue"><strong>插件仓库</strong></a> • 
+    <a target="_blank" href="https://github.com/MCDReforged/ExamplePlugin"><strong>示例插件</strong></a> • 
+    <a target="_blank" href="https://github.com/MCDReforged/PluginTemplate"><strong>插件模板</strong></a>
+  </p>
 
-[![MCDR-banner](https://raw.githubusercontent.com/Fallen-Breath/MCDReforged/master/logo_long.png)](https://github.com/Fallen-Breath/MCDReforged "Fallen-Breath/MCDReforged")
-
-[English](https://github.com/MCDReforged/.github/blob/main/profile/README.md "英文") | **中文**
-
-## MCDReforged 是什么
-
-[MCDReforged](https://github.com/Fallen-Breath/MCDReforged "Fallen-Breath/MCDReforged") 是一个改写自 [MCDaemon](https://github.com/kafuuchino-desu/MCDaemon "kafuuchino-desu/MCDaemon") 的 Minecraft 服务端控制工具，可在不修改服务端的前提下提高对服务端的管理能力，并支持用 Python 编写的插件
-
-## 这个组织负责什么
-
-> 这是一个维护 MCDReforged 生态的组织
-
-### 收集插件
-
-[PluginCatalogue](https://github.com/MCDReforged/PluginCatalogue "MCDReforged/PluginCatalogue") 是一个插件收集仓库，你可以通过<abbr title="Commit">提交</abbr>或<abbr title="Pull Request">拉取请求</abbr>将你的插件信息录入收集仓库
-
-### 开发插件
-
-我们开发并维护一系列实用的插件，可在[仓库列表](https://github.com/orgs/MCDReforged/repositories?q=&language=python)当中查看
+  <br/><br/>
+</div>
