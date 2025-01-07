@@ -1,4 +1,4 @@
-[English](https://github.com/MCDReforged/) | **中文**
+[English](https://github.com/MCDReforged/) | **简中** | [繁中](https://github.com/MCDReforged/.github/blob/main/profile/README_zh_tw.md)
 
 <div align="center">
   <br/><br/><br/>
